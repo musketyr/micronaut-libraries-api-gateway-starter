@@ -33,8 +33,8 @@ dependencies {
 
     lambdaCompile "com.agorapulse:micronaut-function-aws-agp:1.0.0.RC3"
 
-    compile "io.micronaut:http-server"
-    compile "io.micronaut:router"
+    compile "io.micronaut:micronaut-http-server"
+    compile "io.micronaut:micronaut-router"
     compile "io.micronaut:micronaut-inject"
     compile "io.micronaut:micronaut-validation"
     compile "io.micronaut:micronaut-runtime"
