@@ -1,5 +1,5 @@
-profile: function-aws
+profile: service
 defaultPackage: cz.orany.mnlib.hello
 ---
-testFramework: junit
+testFramework: spock
 sourceLanguage: java
